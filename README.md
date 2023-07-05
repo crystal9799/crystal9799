@@ -1,8 +1,8 @@
 # Hello, world! :gift_heart:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYejin&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crystal9799&show_icons=true&theme=buefy)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vgg789)](https://solved.ac/profile/crystal9799)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=crystal9799)](https://solved.ac/profile/crystal9799)
  
 # :muscle: Skills
 
